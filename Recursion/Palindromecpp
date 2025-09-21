@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+void palindromeString(int n){
+    if(n == 0)return;
+
+}
+int main(){
+    string n = "abc";
+    
+}
