@@ -13,5 +13,7 @@ int main(){
             count ++;
         }
     }
+
+    for(int j=0;j<n;j++){cout<<a[j]<<" "; }
     return 0;
 }

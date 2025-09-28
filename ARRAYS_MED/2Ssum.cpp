@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// brute force for 2 sum problem --- complexity n2
+
 int main(){
     int a[] = {1,2,3,1,5};
     int target = 3;

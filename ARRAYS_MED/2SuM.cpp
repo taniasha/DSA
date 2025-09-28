@@ -1,5 +1,6 @@
 // optimized version of the code;
-//  2pointer approach
+
+//  2pointer approach --- 2sum problem
 
 #include<iostream>
 using namespace std;
@@ -20,7 +21,6 @@ int main(){
         }else{
             end--;
         }
-
     }
     return 0;
 }
