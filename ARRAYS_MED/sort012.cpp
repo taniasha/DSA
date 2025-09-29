@@ -17,7 +17,7 @@ int main(){
      }
      
      int index = 0;
-     for(int i = 0; i<zero; i++) a[i]==0;
+     for(int i = 0; i<zero; i++) a[i]=0;
      for(int j =zero; j<one+zero; j++) a[j]=1;
      for(int j =one+zero; j<n; j++) a[j]=2;
 
